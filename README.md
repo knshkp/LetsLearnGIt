@@ -1,2 +1,2 @@
-# LetsLearnGIt
+# LetsLearnGit
 LearningGit
